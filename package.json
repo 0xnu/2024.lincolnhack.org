@@ -10,7 +10,7 @@
     "test": "rm test/*.js && tsc test/* && node test/action.test.js"
   },
   "dependencies": {
-    "axios": "^1.6.7",
+    "axios": "^1.8.4",
     "axios-extensions": "^3.1.6"
   }
 }
